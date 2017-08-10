@@ -16,7 +16,7 @@ arduinoでI2C通信をするプログラム群
 2. slave_sensor
 マスターにセンサー2個のデータを送る
 
-## master <- slave
+## master -> slave
 マスターからデータを送り，スレーブが受け取るプログラム
 1. master_writer
 slave_receiverにデータを送る
